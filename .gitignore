@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+
+#System Files
+*.DS_Store
+.DS_Store
+.npm-debug.log
+*.log
+
+
+#dist Files
+/dist
